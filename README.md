@@ -114,6 +114,7 @@ Here’s a quick overview of the key files in this project:
 Contributions are welcome! If you’d like to improve the game or add new features, feel free to fork the repository and submit a pull request. Here’s how:
 
 1. **Fork the project**.
+   
 2. **Create your feature branch**:
    ```bash
    git checkout -b feature/AmazingFeature
@@ -124,6 +125,7 @@ Contributions are welcome! If you’d like to improve the game or add new featur
 4. **Push to the branch**:
    ```bash
    git push origin feature/AmazingFeature
+
 5. **open pull request**.
    
 ### License
