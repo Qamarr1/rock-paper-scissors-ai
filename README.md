@@ -11,7 +11,7 @@ Table of Contents
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
-About the Project
+### About the Project
 In this project, I’ve built a classic Rock-Paper-Scissors game in C. You can play against a friend in multiplayer mode or challenge an AI opponent. This project is designed to improve basic C programming skills, including user input, randomization, and game logic.
 
 ### Features
@@ -32,7 +32,7 @@ The game follows standard Rock-Paper-Scissors rules:
 Getting Started
 To get a local copy up and running, follow these simple steps.
 
-Prerequisites
+### Prerequisites
 You’ll need a C compiler to run this program. If you’re using GCC, you can install it as follows:
 
 For Linux: sudo apt-get install gcc
